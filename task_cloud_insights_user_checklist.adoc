@@ -1,0 +1,43 @@
+---
+sidebar: sidebar
+permalink: task_cloud_insights_user_checklist.html
+summary: Cloud Insights can walk new users through initial tasks of creating a dashboard, querying assets, and learning to troubleshoot. 
+---
+
+= Cloud Insights User Checklist
+
+:toc: macro
+:hardbreaks:
+:toclevels: 2
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+:keywords: onboarding, getting started, new user
+
+[.lead]
+Cloud Insights walks new users through an initial checklist of tasks for creating dashboards, querying assets, and learning how to troubleshoot potential issues. For each of these tasks, users can watch a short video demonstrating the concept. 
+
+Each workflow home page (Query, Dashboards, Policies, Annotation, Troubleshooting etc.) will have a message bar at the top of the page explaining that feature with a link to the video.  
+  
+User can view the video, dismiss the help/message bar forever (if they want to visit them again, should go to cloud insight documentation) 
+  
+"Got It" button serves as a state for not viewing again.  
+  
+Message bar, links to watch a video, video player in a modal. etc. 
+  
+Is this on a "Per User" basis? meaning do we store the state of each user? 
+
+This is per user, once we have user state management developed
+
+
+toc::[]
+
+== Creating a Dashboard
+
+
+== Querying Assets
+
+
+== Learning to Troubleshoot
+
