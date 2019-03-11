@@ -41,6 +41,10 @@ This topic provides instructions for installing Telegraf on the following operat
 
 To complete the installation of Telegraph on Windows, you install the Telegraf software and customize the configuration file. 
 
+.Requirements:
+
+* You must run the given commands in a PowerShell command window.
+
 .Steps to install Telegraph:
 
 . Create the the following directory:  C:\Program Files\Telegraf 
