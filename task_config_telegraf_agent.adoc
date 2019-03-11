@@ -77,10 +77,10 @@ telegraf.exe --service stop
 
 The following commands must be available:
 
-. curl
-. sudo
-. ping
-. dmidecode
+* curl
+* sudo
+* ping
+* dmidecode
 
 .Steps to install Telegraph:
 
