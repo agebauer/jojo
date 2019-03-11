@@ -75,6 +75,13 @@ telegraf.exe --service stop
 
 == Install Telegraf on RHEL and CentOS
 
+.Requirements:
+The following commands must be available:
+. curl
+. sudo
+. ping
+. dmidecode
+
 .Steps to install Telegraph:
 
 . Install the latest stable version of Telegraf using the yum package manager:
