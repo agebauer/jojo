@@ -108,7 +108,7 @@ To create a configuration file with specific inputs and outputs:
 
 telegraf --input-filter <pluginname>[:<pluginname>] --output-filter <outputname>[:<outputname>] config > telegraf.conf
 
-== Install Telegraf on RHEL and CentOS
+== Install Telegraf on Ubuntu and Debian
 Coming Soon
 
 == Install Telegraf on MacOS
